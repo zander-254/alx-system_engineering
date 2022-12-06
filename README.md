@@ -1,1 +1,1 @@
-system dev
+shell redirections
